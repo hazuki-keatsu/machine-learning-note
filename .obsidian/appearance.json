@@ -1,3 +1,5 @@
 {
-  "textFontFamily": "Consolas"
+  "textFontFamily": "Consolas",
+  "cssTheme": "Blue Topaz",
+  "theme": "obsidian"
 }

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/2. Introduction of Machine and Deep learning (First Part).md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Introduction of Machine and Deep learning (First Part)"
+              "title": "README"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 422.5,
-    "collapsed": true
+    "width": 249.5
   },
   "right": {
     "id": "7620d76191a1092d",
@@ -167,14 +166,20 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "workspaces:管理工作区布局": false
     }
   },
   "active": "e2741e54510ff78a",
   "lastOpenFiles": [
     "notes/3. Introduction of Machine and Deep learning (Second Part).md",
-    "README.md",
+    "assets/Neuron.png",
+    "assets/Batch.png",
     "notes/2. Introduction of Machine and Deep learning (First Part).md",
+    "assets/Parameters.png",
+    "assets/Sigmoid2.png",
+    "assets/Sigmoid.png",
+    "README.md",
     "notes/1. Machine Learning - Overview.md",
     "notes",
     "assets/ErrorSurface.png",
