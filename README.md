@@ -6,6 +6,10 @@ All the notes are in the `./notes/` folder.
 
 This repo is used for owner to document learning outcomes. If it helps you a little, please star it.
 
+## The Recommended Way to Read
+
+All the Markdown files are written by Obsidian. So I recommend you to clone them down and browser them in Obsidian.
+
 ## Contents
 
 1. [Overview for the course](./notes/1.%20Machine%20Learning%20-%20Overview.md)
