@@ -8,9 +8,10 @@ This repo is used for owner to document learning outcomes. If it helps you a lit
 
 ## Contents
 
-1. [Overview for the course](./notes/1.%20Machine%20Learning%20-%20Overview.md)
-2. [Introduction of Machine/Deep Learning (First Part)](./notes/2.%20Introduction%20of%20Machine%20and%20Deep%20learning%20(First%20Part).md)
-3. [Introduction of Machine/Deep Learning (Second Part)](./notes/3.%20Introduction%20of%20Machine%20and%20Deep%20learning%20(Second%20Part).md)
-
+1. [Introduction of Machine/Deep Learning (First Part)](1.Introduction%20of%20Machine%20and%20Deep%20learning%20(First%20Part).md)
+2. [Introduction of Machine/Deep Learning (Second Part)](2.Introduction%20of%20Machine%20and%20Deep%20learning%20(Second%20Part).md)
+3. [General Guide](3.General%20Guide.md)
+4. [PyTorch Tutorial](4.Pytorch%20Tutorial.md)
+5. [Pytorch tutorial with example](./notes/5.Pytorch%20Tutorial%20with%20example)
 
 To be continued...
