@@ -17,5 +17,8 @@ All the Markdown files are written by Obsidian. So I recommend you to clone them
 3. [General Guide](3.General%20Guide.md)
 4. [PyTorch Tutorial](4.Pytorch%20Tutorial.md)
 5. [Pytorch tutorial with example](./notes/5.Pytorch%20Tutorial%20with%20example)
+6. [Optimization Failure](./notes/6.Optimization%20Failure.md)
+7. [Batch and Momentum](./notes/7.Batch%20and%20Momentum.md)
+8. [Adaptive Learning Rate](./notes/8.Adaptive%20Learning%20Rate.md)
 
 To be continued...
