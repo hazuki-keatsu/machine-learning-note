@@ -20,5 +20,17 @@ All the Markdown files are written by Obsidian. So I recommend you to clone them
 6. [Optimization Failure](./notes/6.Optimization%20Failure.md)
 7. [Batch and Momentum](./notes/7.Batch%20and%20Momentum.md)
 8. [Adaptive Learning Rate](./notes/8.Adaptive%20Learning%20Rate.md)
+9. [Classification](./notes/9.Classification.md)
+10. [(To Learn) Deep Learning](./notes/10.(To%20Learn)%20Deep%20Learning.md)
+11. [(To Learn) Backpropagation](./notes/11.(To%20Learn)%20Backpropagation.md)
+12. [(To Learn) Regression](./notes/12.(To%20Learn)%20Regression.md)
+13. [Convolutional Neural Network](./notes/13.Convolutional%20Neural%20Network.md)
+14. [Validation Failure](./notes/14.Validation%20Failure.md)
+15. [Spatial Transformer](notes/15.Spatial%20Transformer.md)
+16. [Self-attention](notes/16.Self-attention.md)
+17. [Batch Normalization](notes/17.Batch%20Normalization.md)
+18. [Tranformer](notes/18.Tranformer.md)
+19. [More Self-attention](notes/19.More%20Self-attention.md)
+
 
 To be continued...

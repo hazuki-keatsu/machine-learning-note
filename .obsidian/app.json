@@ -9,5 +9,9 @@
   "alwaysUpdateLinks": true,
   "spellcheckDictionary": [
     "Dataloader"
-  ]
+  ],
+  "vimMode": false,
+  "newFileLocation": "current",
+  "newLinkFormat": "relative",
+  "useMarkdownLinks": true
 }
