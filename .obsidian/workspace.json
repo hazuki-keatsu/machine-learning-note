@@ -13,26 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "weekly report/5.9.md",
+                "file": "notes/19.More Self-attention.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5.9"
-            }
-          },
-          {
-            "id": "9cb0ad2318eaf590",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/18.Tranformer.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "18.Tranformer"
+              "title": "19.More Self-attention"
             }
           }
         ]
@@ -166,22 +152,21 @@
             }
           },
           {
-            "id": "f30f87072cf5da8c",
+            "id": "0a6b4a58b81fbd42",
             "type": "leaf",
             "state": {
-              "type": "reminder-list",
+              "type": "git-view",
               "state": {},
-              "icon": "clock",
-              "title": "Reminders"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,36 +176,40 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "workspaces:管理工作区布局": false
+      "workspaces:管理工作区布局": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "a8feeee8969ba50e",
   "lastOpenFiles": [
-    "outputs/5.9.pdf",
     "notes/18.Tranformer.md",
-    "notes/17.Batch Normalization.md",
-    "weekly report/5.9.md",
-    "notes/16.Self-attention.md",
+    "notes/19.More Self-attention.md",
+    "assets/2025-05-16_17-32-44.png",
+    "assets/2025-05-16_17-26-54.png",
+    "assets/2025-05-16_17-24-10.png",
+    "assets/2025-05-16_17-23-22.png",
+    "assets/2025-05-16_17-23-09.png",
+    "assets/2025-05-16_17-21-38.png",
+    "assets/2025-05-16_17-21-07.png",
+    "assets/2025-05-16_17-20-05.png",
+    "assets/2025-05-16_17-19-03.png",
+    "assets/2025-05-16_17-17-35.png",
+    "Excalidraw/Drawing 2025-05-16 16.53.11.excalidraw.md",
+    "Excalidraw",
     "notes/15.Spatial Transformer.md",
+    "notes/16.Self-attention.md",
+    "weekly report/5.9.md",
+    "outputs/5.9.pdf",
+    "notes/17.Batch Normalization.md",
     "notes/14.Validation Failure.md",
     "notes/13.Convolutional Neural Network.md",
     "notes/12.(To Learn) Regression.md",
     "notes/11.(To Learn) Backpropagation.md",
     "notes/10.(To Learn) Deep Learning.md",
-    "notes/19.More Self-attention.md",
     "weekly report/4.25.md",
     "outputs/4.25.pdf",
     "README.md",
-    "assets/2025-05-05_16-26-30.png",
-    "assets/2025-05-05_16-23-36.png",
-    "assets/2025-05-05_15-52-46.png",
-    "assets/2025-05-05_15-37-33.png",
-    "assets/2025-05-05_15-29-25.png",
-    "assets/2025-05-05_15-27-06.png",
-    "assets/2025-05-05_15-21-47.png",
-    "assets/2025-05-05_15-20-01.png",
-    "assets/2025-05-05_15-17-19.png",
-    "assets/2025-05-05_15-16-32.png",
     "papers/Attention is all you need.pdf",
     "papers",
     "paper",
@@ -235,12 +224,9 @@
     "python scripts/hw1/runs/Apr25_22-14-47_Hazuki/events.out.tfevents.1745590487.Hazuki.15724.0",
     "python scripts/hw1/runs/Apr25_22-14-47_Hazuki",
     "python scripts/hw1/main.py",
-    "python scripts/hw1/main (2).py",
-    "python scripts/hw1/A basic template for pytorch.py",
     "notes/5.Pytorch Tutorial with example.md",
     "notes/4.Pytorch Tutorial.md",
     "weekly report/4.11.md",
-    "notes/2.Introduction of Machine and Deep learning (Second Part).md",
-    "notes/1.Introduction of Machine and Deep learning (First Part).md"
+    "notes/2.Introduction of Machine and Deep learning (Second Part).md"
   ]
 }

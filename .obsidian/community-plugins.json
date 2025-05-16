@@ -1,5 +1,7 @@
 [
   "obsidian-style-settings",
-  "obsidian-reminder-plugin",
-  "obsidian-languagetool-plugin"
+  "obsidian-languagetool-plugin",
+  "obsidian-excalidraw-plugin",
+  "obsidian-git",
+  "obsidian-icon-folder"
 ]
