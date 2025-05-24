@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/19.More Self-attention.md",
+                "file": "notes/20.GAN.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "19.More Self-attention"
+              "title": "20.GAN"
             }
           }
         ]
@@ -183,8 +183,13 @@
   },
   "active": "a8feeee8969ba50e",
   "lastOpenFiles": [
-    "notes/18.Tranformer.md",
     "notes/19.More Self-attention.md",
+    "notes/20.GAN.md",
+    "weekly report/5.16.md",
+    "outputs/5.16.pdf",
+    "README.md",
+    "weekly report/5.9.md",
+    "notes/18.Tranformer.md",
     "assets/2025-05-16_17-32-44.png",
     "assets/2025-05-16_17-26-54.png",
     "assets/2025-05-16_17-24-10.png",
@@ -199,7 +204,6 @@
     "Excalidraw",
     "notes/15.Spatial Transformer.md",
     "notes/16.Self-attention.md",
-    "weekly report/5.9.md",
     "outputs/5.9.pdf",
     "notes/17.Batch Normalization.md",
     "notes/14.Validation Failure.md",
@@ -209,7 +213,6 @@
     "notes/10.(To Learn) Deep Learning.md",
     "weekly report/4.25.md",
     "outputs/4.25.pdf",
-    "README.md",
     "papers/Attention is all you need.pdf",
     "papers",
     "paper",
@@ -223,10 +226,8 @@
     "outputs/4.25.md",
     "python scripts/hw1/runs/Apr25_22-14-47_Hazuki/events.out.tfevents.1745590487.Hazuki.15724.0",
     "python scripts/hw1/runs/Apr25_22-14-47_Hazuki",
-    "python scripts/hw1/main.py",
     "notes/5.Pytorch Tutorial with example.md",
     "notes/4.Pytorch Tutorial.md",
-    "weekly report/4.11.md",
-    "notes/2.Introduction of Machine and Deep learning (Second Part).md"
+    "weekly report/4.11.md"
   ]
 }

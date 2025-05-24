@@ -13,5 +13,6 @@
   "vimMode": false,
   "newFileLocation": "current",
   "newLinkFormat": "relative",
-  "useMarkdownLinks": true
+  "useMarkdownLinks": true,
+  "showUnsupportedFiles": true
 }
